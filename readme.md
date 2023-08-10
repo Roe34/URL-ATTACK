@@ -1,0 +1,1 @@
+Merhaba Bu Tool sitedeki URL leri bulmanıza yarar < 3
